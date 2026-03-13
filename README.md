@@ -3,9 +3,9 @@
 
 
 
-- 📫 How to reach me **enafrosty@hotmail.com**
+- 📫 How to reach me **iyad@heyfrosty.space**
 
-- ⚡ Fun fact **I have a very bad communication skills**
+- ⚡ Fun fact **I have some very bad communication skills**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
