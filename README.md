@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Iyad Nouasra</h1>
 <h3 align="center">A passionate Software developer from Algeria, Electronics Student</h3>
 
 
 
-- 📫 How to reach me **iyad@heyfrosty.space**
+- 📫 How to reach me : **iyad@heyfrosty.space**
 
 - ⚡ Fun fact **I have some very bad communication skills**
 
