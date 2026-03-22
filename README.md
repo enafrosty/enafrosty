@@ -12,6 +12,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=wasm,bash,c,cpp,debian,docker,git,js,java,linux,mongodb,nodejs,ps,r,vscode,)](https://skillicons.dev)
+[![My Skills] (https://skillicons.dev/icons?i=wasm,bash,c,cpp,debian,docker,git,js,java,linux,mongodb,nodejs,ps,r,vscode,)] (https://skillicons.dev)
 
 ![enafrosty's GitHub stats](https://github-readme-stats.vercel.app/api?username=enafrosty&show_icons=true&theme=radical&hide=issues,contribs)
