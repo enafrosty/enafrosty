@@ -15,4 +15,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=wasm,bash,c,cpp,debian,docker,git,js,java,linux,mongodb,nodejs,ps,r,vscode)](https://skillicons.dev)
 
-![enafrosty's GitHub stats](https://github-readme-stats.vercel.app/api?username=enafrosty&show_icons=true&theme=radical&hide=issues,contribs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enafrosty)](https://github.com/anuraghazra/github-readme-stats)
+![enafrosty's GitHub stats](https://github-readme-stats.vercel.app/api?username=enafrosty&show_icons=true&theme=radical&hide=issues,contribs) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enafrosty&layout=compact&theme=radical)
