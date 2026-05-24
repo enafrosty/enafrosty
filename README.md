@@ -1,8 +1,12 @@
-<h3 align="center">A passionate Software developer from Algeria, Electronics Student</h3>
+
+![banner](https://i.imgur.com/9vjHDFf.gif)
+
+
+<h3 align="center">I make cool stuff when i'm bored, Electronics Student</h3>
 
 
 
-- 📫 How to reach me : **iyad@heyfrosty.space**
+- How to reach me : **iyad@heyfrosty.space**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
