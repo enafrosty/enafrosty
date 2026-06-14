@@ -1,5 +1,5 @@
+<h3 align="center">![banner](https://i.imgur.com/9vjHDFf.gif)</h3>
 
-![banner](https://i.imgur.com/9vjHDFf.gif)
 
 
 <h3 align="center">I make cool stuff when i'm bored, Electronics Student</h3>
