@@ -1,6 +1,7 @@
-![banner](https://i.imgur.com/9vjHDFf.gif)
 
-
+<p align="center">
+  <img src="http://some_place.com/image.png](https://i.imgur.com/9vjHDFf.gif" />
+</p>
 
 <h3 align="center">I make cool stuff when i'm bored, Electronics Student</h3>
 
