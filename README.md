@@ -7,7 +7,7 @@
 
 
 
-- How to reach me : **iyad@heyfrosty.space**
+- How to reach me : **contact@heyfrosty.space**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
